@@ -1,6 +1,31 @@
 {
-  "___header__": "header",
-  
+"___header__": "Header",
+  "link1": "Products",
+  "Отзывы": "Reviews",
+  "нас": "About Us",
+  "Стать": "Become a Client",
 
-  "__showcase__": "__showcase__"
+  "__showcase__": "__showcase__",
+  "Финансовые": "Financial services and products for <span className='font-bold'>life and business</span>",
+  "Узнать": "Learn more →",
+  "15": "15 offices and <br /> representations <br /> (USA, Europe, UAE, Asia)",
+  "Операции": "Operations <br /> with cryptocurrencies <br /> and fiat",
+  "700": "700+ <br /> satisfied <br /> clients",
+
+  "Решаем": "Solving financial-related <br /> challenges",
+  "Покупка": "Buying/selling/exchanging <br /> fiat and cryptocurrencies",
+  "Наши": "Our products",
+  "Обмен": "Currency exchange",
+  "Консьерж": "Concierge service",
+  "Кошелек": "Wallet",
+  "Обменивайте": "Exchange fiat and cryptocurrencies <br className='max-[390px]:hidden' /> safely worldwide",
+  "Обменять": "Exchange →",
+  "Это": "This is your personal assistant that <br className='max-[390px]:hidden' /> helps solve financial tasks: <br className='max-[390px]:hidden' /> from bill payments to credit top-ups",
+  "Продукты": "Products in development",
+  "Банковская": "Bank card",
+  "Дебетовые": "Debit cards that you can use for purchases and transfers",
+  "Персональный": "Personal account",
+  "Личный": "Personal IBAN and bank transfers SEPA and SWIFT",
+  "Ваши": "Your funds <br className='max-[390px]:hidden' /> are securely protected",
+  "Безопасность": "Client funds security is our <br className='max-[920px]:hidden' /> top priority. We guarantee <br className='max-[920px]:hidden' /> transparency in every transaction."
 }

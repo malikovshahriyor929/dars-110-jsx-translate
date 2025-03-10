@@ -1,6 +1,32 @@
 {
-  "___header__": "sarlavha",
+  "___header__": "Sarlavha",
   "language": "til",
+  "link1": "Mahsulotlar",
+  "Отзывы": "Sharhlar",
+  "нас": "Biz haqimizda",
+  "Стать": "Mijoz bo‘lish",
 
-  "__showcase__": "__showcase__"
+  "__showcase__": "__showcase__",
+  "Финансовые": "Hayot va biznes uchun <span className='font-bold'>moliyaviy xizmatlar va mahsulotlar</span>",
+  "Узнать": "Ko‘proq bilish →",
+  "15": "15 ta ofis va <br /> vakolatxonalar <br /> (AQSh, Yevropa, BAA, Osiyo)",
+  "Операции": "Kriptovalyutalar <br /> va fiat <br /> operatsiyalari",
+  "700": "700+ <br /> mamnun <br /> mijozlar",
+
+  "Решаем": "Moliya bilan bog‘liq <br /> muammolarni hal qilamiz",
+  "Покупка": "Fiat va kriptovalyutalarni <br /> sotib olish/sotish/ayirboshlash",
+  "Наши": "Bizning mahsulotlar",
+  "Обмен": "Valyuta ayirboshlash",
+  "Консьерж": "Konsyerj xizmati",
+  "Кошелек": "Hamyon",
+  "Обменивайте": "Fiat va kriptovalyutalarni <br className='max-[390px]:hidden' /> xavfsiz butun dunyo bo‘ylab ayirboshlang",
+  "Обменять": "Ayirboshlash →",
+  "Это": "Bu sizning shaxsiy yordamchingiz bo‘lib, <br className='max-[390px]:hidden' /> moliyaviy muammolarni hal qilishga yordam beradi: <br className='max-[390px]:hidden' /> hisob-kitoblarni to‘lashdan kredit to‘ldirishgacha",
+  "Продукты": "Ishlab chiqilayotgan mahsulotlar",
+  "Банковская": "Bank kartasi",
+  "Дебетовые": "Xaridlar va pul o‘tkazmalari uchun ishlatishingiz mumkin bo‘lgan debit kartalar",
+  "Персональный": "Shaxsiy hisob",
+  "Личный": "Shaxsiy IBAN va SEPA va SWIFT bank o‘tkazmalari",
+  "Ваши": "Sizning mablag‘laringiz <br className='max-[390px]:hidden' /> xavfsiz himoyalangan",
+  "Безопасность": "Mijoz mablag‘larining xavfsizligi <br className='max-[920px]:hidden' /> bizning asosiy ustuvorligimizdir. <br className='max-[920px]:hidden' /> Har bir tranzaksiyaning shaffofligiga kafolat beramiz."
 }
