@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+body {
+  background-color: #17181d;
+}
+.headerBg {
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px 0 rgba(15, 15, 15, 0.2);
+  background: linear-gradient(
+    225deg,
+    rgba(37, 37, 37, 0.3) 0%,
+    rgba(51, 52, 58, 0.3) 56.25%,
+    rgba(26, 26, 26, 0.3) 100%
+  );
+}
+.showcaseCard {
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px 0 rgba(15, 15, 15, 0.2);
+  background: linear-gradient(
+    225deg,
+    rgba(37, 37, 37, 0.3) 0%,
+    rgba(51, 52, 58, 0.3) 56.25%,
+    rgba(26, 26, 26, 0.3) 100%
+  );
+  border: 1px solid #3d3d3d;
+}
+.bgCard{
+  backdrop-filter: blur(100px);
+background: linear-gradient(225deg, rgba(38, 38, 39, 0.3) 0%, rgba(51, 52, 58, 0.3) 56.25%, rgba(34, 34, 36, 0.3) 100%);
+}
